@@ -1,4 +1,4 @@
-raycasting 3d 구현  
+raycasting 구현  
 
 결과물
 ---
