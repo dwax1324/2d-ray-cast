@@ -1,8 +1,6 @@
 raycasting 3d 구현  
 
-결과물  
-
-
+결과물
 ---
 ![](/GIFqwrqrqwrwqr.gif)
 
